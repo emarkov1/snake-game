@@ -1,3 +1,7 @@
+Play the famous game Snake by visiting 
+http://snake.evgeniimarkov.com/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
